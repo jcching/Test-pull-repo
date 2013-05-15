@@ -1,0 +1,11 @@
+Testing some
+crazy github
+wizadry. lol
+
+Will this merge properly?
+
+<<<<<<< HEAD
+finally main updated
+=======
+finally branch updates
+>>>>>>> branch-updater
